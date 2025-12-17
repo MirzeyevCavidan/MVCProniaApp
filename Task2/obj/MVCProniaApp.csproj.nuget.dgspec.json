@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp\\Task2\\MVCProniaApp.csproj": {}
+    "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp2\\Task2\\MVCProniaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp\\Task2\\MVCProniaApp.csproj": {
+    "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp2\\Task2\\MVCProniaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp\\Task2\\MVCProniaApp.csproj",
+        "projectUniqueName": "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp2\\Task2\\MVCProniaApp.csproj",
         "projectName": "MVCProniaApp",
-        "projectPath": "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp\\Task2\\MVCProniaApp.csproj",
+        "projectPath": "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp2\\Task2\\MVCProniaApp.csproj",
         "packagesPath": "C:\\Users\\Cavidan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp\\Task2\\obj\\",
+        "outputPath": "C:\\Users\\Cavidan\\OneDrive\\Desktop\\MVCProniaApp2\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
